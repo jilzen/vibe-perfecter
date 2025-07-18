@@ -81,4 +81,3 @@ if submitted:
 
 # --- Footer ---
 st.divider()
-st.markdown("Built by you with Gemini Pro | Adapted for DeepSeek")
