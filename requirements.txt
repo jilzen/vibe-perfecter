@@ -1,0 +1,5 @@
+# Main web framework
+streamlit
+
+# OpenAI library (to be used with DeepSeek's compatible API)
+openai
